@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "9JA89QQLNQ.com.abjayon.ImpressaCx",
+                "appID": "com.abjayon.ImpressaCx",
                 "paths": [ "/Payments/*"]
             }
         ]

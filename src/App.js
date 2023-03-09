@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="impressacx://Payments?&amount=1000&msg=hello"
+          href="exp://192.168.29.106:19000--/Payments?str='hello world"
           target="_blank"
           rel="noopener noreferrer"
         >
