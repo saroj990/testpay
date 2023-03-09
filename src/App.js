@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="exp://192.168.29.106:19000--/Payments?str='hello world"
+          href="exp://192.168.29.106:19000"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Redirect to App
+          Redirect to App expo
         </a>
       </header>
     </div>
